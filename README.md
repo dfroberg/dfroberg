@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning XCP-ng
 
 
-![Metrics](github-metrics.svg)
+![Metrics](https://github.com/dfroberg/dfroberg/blob/main/github-metrics.svg)
 <!--
 **dfroberg/dfroberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
