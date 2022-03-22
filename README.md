@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on testing k3s based clusters on bare metal and Proxmox & XCP-ng.
-- 🌱 I’m currently learning XCP-ng
+- 🔭 I’m currently working on testing k3s based clusters on bare metal and Proxmox, ESXI, Harvester & XCP-ng via MAAS, Terraform & Ansible.
+- 🌱 I’m currently learning XCP-ng.
 
 
 ![Metrics](https://metrics.lecoq.io/dfroberg?template=classic&repositories.forks=true&base.header=0&languages=1&stars=1&people=1&achievements=1&notable=1&wakatime=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=true&notable.types=commit&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=dfroberg&config.timezone=Europe%2FStockholm&config.octicon=true)
