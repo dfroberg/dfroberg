@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning XCP-ng.
 
 
-<img src="https://github.com/dfroberg/dfroberg/blob/main/github-metrics.svg?sanitize=true" width="100%">
+<img src="https://github.com/dfroberg/dfroberg/blob/main/github-metrics.svg?sanitize=true" width="80%">
 <!--
 **dfroberg/dfroberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
