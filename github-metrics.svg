@@ -169,14 +169,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.2891942979776" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="157.2891942979776" y="0" width="134.18491778115717" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="291.4741120791347" y="0" width="38.82714856241384" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="330.3012606415486" y="0" width="37.901408450704224" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.2026690922528" y="0" width="35.01566208553034" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="403.2183311777831" y="0" width="20.699378917297935" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="423.917710095081" y="0" width="18.649479114850557" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="442.5671892099316" y="0" width="17.432810790068363" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="157.28762949161262" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="157.28762949161262" y="0" width="134.188159183192" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="291.4757886748046" y="0" width="38.82676228686914" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="330.3025509616738" y="0" width="37.90103138497222" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="368.203582346646" y="0" width="35.01531372891786" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="403.2188960755638" y="0" width="20.699172987577047" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="423.9180690631409" y="0" width="18.64929357875094" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="442.5673626418918" y="0" width="17.432637358108174" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chippawah/proxmox-cluster-example</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxmox with Talos and Kubernetes!</div>
@@ -1200,7 +1200,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2022, 14:01:26 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 9 Apr 2022, 15:05:38 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
