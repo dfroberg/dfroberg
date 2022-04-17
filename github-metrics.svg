@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KimTholstorf/zerotier-scripts</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My collection of scripts for ZeroTier virtual network.</div>
@@ -311,7 +311,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leunamnauj/kubernetes-zerotier-bridge</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes Zerotier bridge</div>
@@ -358,7 +358,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spekt8/spekt8</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize your Kubernetes cluster in real time</div>
@@ -1235,7 +1235,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2022, 20:01:35 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 17 Apr 2022, 21:01:11 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
