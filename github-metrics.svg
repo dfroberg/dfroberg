@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hagaygo/tvheadendm3usync</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.Net core based utility to sync your IPTV M3U file with tvheadend mux/services</div>
@@ -1225,7 +1225,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Apr 2022, 06:01:26 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 07:01:24 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
