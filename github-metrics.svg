@@ -95,7 +95,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            59 Repositories (including 12 forks)
+                            60 Repositories (including 13 forks)
                         </h2>
                         <div class="row">
                             <section>
@@ -169,14 +169,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.66951682703538" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="156.66951682703538" y="0" width="135.4665887119493" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="292.1361055389847" y="0" width="38.674179953651866" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="330.8102854926365" y="0" width="37.752087011054755" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="368.5623725036913" y="0" width="34.87770971682902" height="8" fill="#0298c3"/>
-                    <rect mask="url(#languages-bar)" x="403.4400822205203" y="0" width="20.617828885620327" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="424.0579111061406" y="0" width="18.577958728356595" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="442.63586983449716" y="0" width="17.36413016550277" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.71809277777544" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="155.71809277777544" y="0" width="135.7888953143973" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="291.5069880921727" y="0" width="38.4393190461919" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="329.9463071383646" y="0" width="37.5228257979004" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="367.46913293626505" y="0" width="34.6659040479296" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="402.13503698419464" y="0" width="20.49262074913924" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="422.62765773333393" y="0" width="18.907203932973975" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="441.5348616663079" y="0" width="18.46513833369213" height="8" fill="#a52a22"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -217,15 +217,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Jinja
+                        Go
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#a52a22" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        HTML
+                        Jinja
                     </div>
                 </div>
             </section>
@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prymitive/karma</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alert dashboard for Prometheus Alertmanager</div>
@@ -666,7 +666,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.75 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="11.625 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -692,7 +692,7 @@
                                     <span class="prefix">Super</span>
                                     forker
                                 </div>
-                                <div class="text">Forked 12 public repositories</div>
+                                <div class="text">Forked 13 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -705,7 +705,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="138.68421052631578 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="146.8421052631579 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -730,9 +730,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.18m out of 89m users</span>
+                                    <span class="gh">ranked 2.03m out of 89m users</span>
                                 </div>
-                                <div class="text">Published 18 public repositories</div>
+                                <div class="text">Published 19 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1225,7 +1225,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2022, 13:01:28 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 14:01:27 (timezone Europe/Stockholm) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
