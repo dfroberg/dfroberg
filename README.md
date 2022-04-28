@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning XCP-ng.
 - 💬 Ask me about Kubernetes, Helm or Flux :)
 
-<img src="https://github.com/dfroberg/dfroberg/blob/main/github-metrics.svg" width="80%">
+<img src="https://github.com/dfroberg/dfroberg/blob/main/github-metrics.svg" width="95%">
 <!--
 **dfroberg/dfroberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
