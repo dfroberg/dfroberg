@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jbruns/ArgoCD-SCALE</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My home, powered by k3s and GitOps. Community around k8s@home is on discord: https://discord.gg/7PbmHRK</div>
@@ -1292,7 +1292,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2022, 07:05:03 (timezone Europe/Stockholm) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 16 May 2022, 08:01:38 (timezone Europe/Stockholm) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
