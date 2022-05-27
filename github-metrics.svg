@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dfroberg/snoopy</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Snoopy subscribes to events on the Ethereum network you specify and spits out stats and information about blocks it has gathered since it started.</div>
@@ -752,7 +752,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.70m out of 91m users</span>
+                                    <span class="gh">ranked 1.71m out of 91m users</span>
                                 </div>
                                 <div class="text">Published 22 public repositories</div>
                             </div>
@@ -1293,7 +1293,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2022, 12:01:30 (timezone Europe/Stockholm) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 May 2022, 13:01:35 (timezone Europe/Stockholm) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
