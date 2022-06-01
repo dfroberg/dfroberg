@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lablabs/ansible-role-rke2</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ansible Role to install RKE2 Kubernetes.</div>
@@ -370,7 +370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dfroberg/snoopy</span>
-                                        <span>starred 27 days ago</span>
+                                        <span>starred 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Snoopy subscribes to events on the Ethereum network you specify and spits out stats and information about blocks it has gathered since it started.</div>
@@ -1304,7 +1304,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2022, 12:02:31 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jun 2022, 13:01:22 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
