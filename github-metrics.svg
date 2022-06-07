@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>budimanjojo/talhelper</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to help creating Talos kubernetes cluster</div>
@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lablabs/ansible-role-rke2</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ansible Role to install RKE2 Kubernetes.</div>
@@ -1272,7 +1272,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2022, 19:06:58 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 20:01:28 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
