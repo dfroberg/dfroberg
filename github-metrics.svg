@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nullpo-head/wsl-distrod</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.</div>
@@ -951,7 +951,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 406k out of 316m repositories</span>
+                                    <span class="gh">ranked 406k out of 317m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 57 stars</div>
                             </div>
@@ -1156,7 +1156,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.10m out of 316m repositories</span>
+                                    <span class="gh">ranked 4.10m out of 317m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1313,7 +1313,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2022, 08:01:33 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 21 Jun 2022, 09:02:30 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
