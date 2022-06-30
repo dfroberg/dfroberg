@@ -276,7 +276,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>INFURA/github-real-fake-groups</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -324,7 +324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>readysettech/readyset</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.</div>
@@ -377,7 +377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>INFURA/cluster</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ethereum and IPFS</div>
@@ -1294,7 +1294,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2022, 22:01:50 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 30 Jun 2022, 23:01:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
