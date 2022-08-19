@@ -276,7 +276,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/ko</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build and deploy Go applications on Kubernetes</div>
@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hckops/actions</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitOps actions</div>
@@ -1325,7 +1325,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2022, 06:19:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 07:09:31 (timezone Europe/Stockholm) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
