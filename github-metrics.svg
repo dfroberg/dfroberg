@@ -276,7 +276,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deekue/talos-extensions</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Talos Linux System Extensions</div>
@@ -376,7 +376,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/ko</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build and deploy Go applications on Kubernetes</div>
@@ -429,7 +429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hckops/actions</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitOps actions</div>
@@ -1290,7 +1290,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2022, 20:01:24 (timezone Europe/Stockholm) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 21:01:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
