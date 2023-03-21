@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3622 Commits
+                            3932 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -172,7 +172,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="189.65320793884877" height="8" fill="#00ADD8"/>
                     <rect mask="url(#languages-bar)" x="189.65320793884877" y="0" width="115.77745445735115" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="305.4306623961999" y="0" width="46.60916947168426" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="352.0398318678842" y="0" width="28.996345545203535" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="352.0398318678842" y="0" width="28.996345545203535" height="8" fill="#844FBA"/>
                     <rect mask="url(#languages-bar)" x="381.03617741308767" y="0" width="27.828007817376974" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="408.86418523046467" y="0" width="23.474604032055694" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="432.3387892625204" y="0" width="14.012471048468809" height="8" fill="#0298c3"/>
@@ -199,7 +199,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HCL
                     </div>
@@ -242,8 +242,8 @@
                         <span class="name">@INFURA</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="86.82055436819105 329"/>
-                            <text x="15" y="15" dominant-baseline="central">665</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="55.12949483751974 329"/>
+                            <text x="15" y="15" dominant-baseline="central">639</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
@@ -1112,7 +1112,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.97m out of 386m repositories</span>
+                                    <span class="gh">ranked 1.87m out of 386m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1354,7 +1354,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2023, 11:01:41 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 21 Mar 2023, 12:01:41 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
