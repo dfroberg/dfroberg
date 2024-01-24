@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>padok-team/burrito</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌯 Burrito is a TACoS 🌮</div>
@@ -1026,7 +1026,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 469k out of 49.8m repositories</span>
+                                    <span class="gh">ranked 469k out of 51.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 66 stars</div>
                             </div>
@@ -1155,7 +1155,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.14m out of 49.8m repositories</span>
+                                    <span class="gh">ranked 2.09m out of 51.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -1345,7 +1345,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jan 2024, 21:01:31 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jan 2024, 22:01:31 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
