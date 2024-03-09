@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>roeldev/iac-talos-cluster</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy a Talos OS-based cluster in Proxmox using Terraform, with Cilium and ArgoCD</div>
@@ -1015,7 +1015,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 871k out of 81.2m repositories</span>
+                                    <span class="gh">ranked 871k out of 76m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 13 times</div>
                             </div>
@@ -1088,7 +1088,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 514k out of 81.2m repositories</span>
+                                    <span class="gh">ranked 514k out of 76m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 60 stars</div>
                             </div>
@@ -1394,7 +1394,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2024, 16:01:41 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2024, 17:01:25 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
