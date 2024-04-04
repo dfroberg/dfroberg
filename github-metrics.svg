@@ -318,7 +318,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lupinelab/kproximate</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Kubernetes node autoscaler for Proxmox</div>
@@ -1000,7 +1000,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 876k out of 44.6m repositories</span>
+                                    <span class="gh">ranked 812k out of 67.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 13 times</div>
                             </div>
@@ -1073,7 +1073,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 519k out of 44.6m repositories</span>
+                                    <span class="gh">ranked 519k out of 67.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 60 stars</div>
                             </div>
@@ -1379,7 +1379,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Apr 2024, 22:01:25 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2024, 23:01:23 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
