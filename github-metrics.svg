@@ -280,7 +280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guerrerocarlos/ubnt-discover</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Ubiquiti (ubnt.com) devices discovery for the cli</div>
@@ -1009,7 +1009,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 881k out of 200m repositories</span>
+                                    <span class="gh">ranked 881k out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 13 times</div>
                             </div>
@@ -1082,7 +1082,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 524k out of 200m repositories</span>
+                                    <span class="gh">ranked 524k out of 198m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 60 stars</div>
                             </div>
@@ -1388,7 +1388,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2024, 18:01:30 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2024, 19:01:21 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
