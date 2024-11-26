@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on testing k3s based clusters on bare metal and Proxmox, ESXI, Harvester & XCP-ng via MAAS, Terraform & Ansible.
-- 🌱 I’m currently learning XCP-ng.
-- 💬 Ask me about Kubernetes, Helm or Flux :)
+- 🌱 I’m currently learning hardware accelerated AI.
+- 💬 Ask me about Kubernetes, Helm or Flux/ArgoCD :)
 
 <img src="https://github.com/dfroberg/dfroberg/blob/main/github-metrics.svg" width="95%">
 <!--
