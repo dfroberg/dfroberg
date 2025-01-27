@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on testing k3s based clusters on bare metal and Proxmox, ESXI, Harvester & XCP-ng via MAAS, Terraform & Ansible.
+- 🔭 I’m currently working on AWS Organization automation with complete workflows in one Terragrunt stack.
 - 🌱 I’m currently learning hardware accelerated AI.
 - 💬 Ask me about Kubernetes, Helm or Flux/ArgoCD :)
 
