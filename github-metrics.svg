@@ -264,7 +264,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Qbandev/infura-mcp-server</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Infura MCP server! This project provides a ready-to-use Model Context Protocol (MCP) server that exposes the Infura Ethereum JSON-RPC API as a set of tools for Large Language Models like Claude and Cursor.</div>
@@ -654,7 +654,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2026, 07:03:03 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2026, 08:07:18 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
