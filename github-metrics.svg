@@ -568,22 +568,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Meet - rec-smuv-dsr</span>
-                                <div class="bar" style="width: 66.704%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">83%</span>
+                                <div class="bar" style="width: 50.976%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">64%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">login/oauth</span>
-                                <div class="bar" style="width: 12.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 28.592%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">slack-warroom-sync</span>
-                                <div class="bar" style="width: 0.35200000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.32799999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">dfroberg</span>
-                                <div class="bar" style="width: 0.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.11200000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -593,17 +593,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 78.904%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 78.98400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 0.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7200000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 0.32%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.29600000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -630,7 +630,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2026, 00:02:51 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2026, 01:03:25 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
